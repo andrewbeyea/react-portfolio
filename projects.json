@@ -1,0 +1,51 @@
+{
+    "projects":[
+    {
+        "name": "PacMen",
+        "type": "Coursework",
+        "description": "An unlimited number of animated PacMen chase each other around the window.<br>Uses the DOM and arrays to iterate through all objects created by the user, updating positions and identifying when each image is about to exceed the space of the window.",
+        "link": "./pages/pacman/index.html",
+        "repoLink": "https://github.com/andrewbeyea/PacMen",
+        "thumbnail": "https://andrewbeyea.github.io/portfolio/images/pacmen.jpg"
+    },
+    {
+        "name": "Eyes",
+        "type": "Coursework",
+        "description": "A pair of eyes track the mouse pointer around your screen.",
+        "link": "./pages/eyes/index.html",
+        "repoLink": "https://github.com/andrewbeyea/Eye-Exercise",
+        "thumbnail": "https://andrewbeyea.github.io/portfolio/images/eyes.jpg"
+    },
+    {
+        "name": "Real-Time Bus Tracker",
+        "type": "Coursework",
+        "description": "Shows the position of trains on Boston's Red Line T",
+        "link": "./pages/bustracker/index.html",
+        "repoLink": "https://github.com/andrewbeyea/Real-Time-Bus-Tracker",
+        "thumbnail": "https://andrewbeyea.github.io/portfolio/images/bustracker.jpg"
+    },
+    {
+        "name": "Slider Puzzle",
+        "type": "Side Project",
+        "description": "A puzzle game to construct an image from shuffled tiles. Uses arrow key controls.",
+        "link": "./pages/sliderpuzzle/index.html",
+        "repoLink": "https://github.com/andrewbeyea/sliderPuzzle",
+        "thumbnail": "https://andrewbeyea.github.io/portfolio/images/sliderpuzzle.jpg"
+    },
+        {
+        "name": "Formik Form",
+        "type": "Coursework",
+        "description": "Form validation demonstration using Formik toolchain. Requires email and user 'name' to include symbols @ and . Shows error data on each line for any errors in the data provided.",
+        "link": "./pages/formik-form/index.html",
+        "repoLink": "https://github.com/andrewbeyea/formik-form",
+        "thumbnail": "https://andrewbeyea.github.io/portfolio/images/formik-form.jpg"
+    },        
+    {
+        "name": "Towers of Hanoi",
+        "type": "Coursework",
+        "description": "Recursive programming demo to solve the classic Towers of Hanoi problem. Moves n'rings' from tower 1 to tower 3 and provides step-by-step logging of the actions taken.",
+        "link": "./pages/hanoi/index.html",
+        "repoLink": "https://github.com/andrewbeyea/hanoi",
+        "thumbnail": "https://andrewbeyea.github.io/portfolio/images/hanoi.jpg"
+    }
+]}
