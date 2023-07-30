@@ -47,5 +47,13 @@
         "link": "./pages/hanoi/index.html",
         "repoLink": "https://github.com/andrewbeyea/hanoi",
         "thumbnail": "https://andrewbeyea.github.io/portfolio/images/hanoi.jpg"
+    },
+    {
+        "name": "React Portfolio",
+        "type": "Coursework",
+        "description": "Refactor of the Books project. Programatically fills a list of the projects in my portfolio. Includes links and images.",
+        "link": "./pages/react-portfolio/index.html",
+        "repoLink": "https://https://github.com/andrewbeyea/react-portfolio",
+        "thumbnail": "https://andrewbeyea.github.io/portfolio/images/react-portfolio.jpg"
     }
 ]}
